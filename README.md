@@ -4,8 +4,8 @@
 
 **Full-Stack Developer · Building real things that solve real problems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-jain-36655a234)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushjain3237@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush19jain)
 
 </div>
@@ -18,8 +18,8 @@ I'm a developer who's comfortable on both sides of the stack. My projects span p
 
 I rebuilt the backend of TaxEase from scratch in Spring Boot after writing it in Node.js first — not because it broke, but because I wanted to actually understand the difference. That's kind of how I approach things.
 
-- Currently sharpening my skills in **system design** and **Spring Security internals**
-- Comfortable jumping between Java, TypeScript, and JavaScript depending on what the project needs
+- Currently sharpening my skills in **system design** and **AWS Cloud**
+- Comfortable jumping between Java and JavaScript depending on what the project needs
 - I care about writing code that's readable by the next person, not just runnable by the machine
 
 ---
@@ -29,7 +29,6 @@ I rebuilt the backend of TaxEase from scratch in Spring Boot after writing it in
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -38,14 +37,12 @@ I rebuilt the backend of TaxEase from scratch in Spring Boot after writing it in
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Tools**
 
