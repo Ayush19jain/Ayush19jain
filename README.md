@@ -15,9 +15,6 @@
 ## About Me
 
 I'm a developer who's comfortable on both sides of the stack. My projects span pharmacy inventory systems, tax filing platforms, and college portals — each one taught me something the next one relied on.
-
-I rebuilt the backend of TaxEase from scratch in Spring Boot after writing it in Node.js first — not because it broke, but because I wanted to actually understand the difference. That's kind of how I approach things.
-
 - Currently sharpening my skills in **system design** and **AWS Cloud**
 - Comfortable jumping between Java and JavaScript depending on what the project needs
 - I care about writing code that's readable by the next person, not just runnable by the machine
@@ -40,9 +37,16 @@ I rebuilt the backend of TaxEase from scratch in Spring Boot after writing it in
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Databases & Cloud**
+**Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-0000BB?style=for-the-badge&logo=h2&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **Tools**
 
@@ -66,7 +70,7 @@ What makes this one interesting: I originally built the backend in Node/Express,
 ---
 
 ### 💊 Pharmacy Portal — Inventory Management Dashboard
-> React 18 · TypeScript · Styled Components · Firebase · Firestore
+> React 18 · Javascript · Styled Components · SpringBoot · JWT · RestAPIs
 
 A real-time pharmacy inventory dashboard. Tracks stock levels across medicines, flags low-stock and out-of-stock items, and shows live stats on daily sales and activity. Built with TypeScript throughout and a Firebase backend for live sync.
 
@@ -86,7 +90,7 @@ A multi-page college portal covering home, about, departments, clubs, and notice
 ---
 
 ### 🏦 JPMC Advanced SE — Forage Program
-> Java
+> Java · SpringBoot · RestAPIs · Kafka
 
 Completed JPMorgan Chase's Advanced Software Engineering virtual program. Worked through real-world engineering problems in a Java environment, simulating professional workflows and code quality standards used in industry.
 
