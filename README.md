@@ -105,12 +105,9 @@ Completed JPMorgan Chase's Advanced Software Engineering virtual program. Worked
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ayush19jain&theme=tokyonight&hide_border=true)
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush19jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush19jain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush19jain&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
 ---
 
 <div align="center">
