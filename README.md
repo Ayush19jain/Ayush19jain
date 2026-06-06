@@ -33,24 +33,14 @@
 
 ## 🧑‍💻 About Me
 
-```java
-Developer ayush = new Developer();
+I'm a developer who's comfortable on both sides of the stack. My projects span pharmacy inventory systems, tax filing platforms, and college portals — each one taught me something the next one relied on.
 
-ayush.setName("Ayush Jain");
-ayush.setCollege("KIET Group of Institutions");
-ayush.setRole("Full-Stack Developer");
-
-ayush.setStack(List.of(
-    "Java", "Spring Boot",
-    "React", "JavaScript"
-));
-
-ayush.setCurrentlyLearning(List.of(
-    "System Design", "AWS Cloud"
-));
-
-ayush.setGoal("Open to Internships 🚀");
-```
+- 🎓 B.Tech CSE @ **KIET Group of Institutions**, Ghaziabad
+- 🔭 Currently sharpening my skills in **System Design** and **AWS Cloud**
+- ⚡ Comfortable jumping between **Java** and **JavaScript** depending on what the project needs
+- 🔐 I rebuilt an entire backend from Node/Express to Spring Boot just to understand the difference firsthand
+- 🎯 Looking for **internship opportunities** where I can contribute and keep learning fast
+- 🏓 Fun fact — represented my team at **3 IIT Jodhpur fests** in Table Tennis
 
 <br clear="right"/>
 
@@ -110,16 +100,6 @@ ayush.setGoal("Open to Internships 🚀");
 | Multi-page college portal — departments, clubs, notices. Pure HTML + CSS. No build step, no config. Just the web doing its thing. | Spring Boot microservice with Kafka for transaction processing. Built during JPMorgan Chase's Advanced SE virtual program. |
 | `HTML` `CSS` `JavaScript` | `Java` `Spring Boot` `Kafka` `JPA` |
 | [![Repo](https://img.shields.io/badge/View_Repo-6a0dad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush19jain/Innotech_Project) | [![Repo](https://img.shields.io/badge/View_Repo-6a0dad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush19jain/forage-midas) |
-
-</div>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush19jain&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
