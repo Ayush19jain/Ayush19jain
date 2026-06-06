@@ -36,7 +36,7 @@ I'm a developer who's comfortable on both sides of the stack. My projects span p
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-COLOR?style=for-the-badge&logo=LOGO&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **Databases**
 
@@ -103,9 +103,11 @@ Completed JPMorgan Chase's Advanced Software Engineering virtual program. Worked
 
 <div align="center">
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush19jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ayush19jain&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush19jain&layout=compact&theme=tokyonight&hide_border=true)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush19jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush19jain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
