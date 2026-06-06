@@ -1,8 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ayush%20Jain&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=58&descSize=18)
+
 <div align="center">
 
-# Ayush Jain
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real+things+that+solve+real+problems;Java+%7C+Spring+Boot+%7C+React+Developer;Open+to+Internship+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-**Full-Stack Developer · Building real things that solve real problems**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-jain-36655a234)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushjain3237@gmail.com)
@@ -15,6 +17,7 @@
 ## About Me
 
 I'm a developer who's comfortable on both sides of the stack. My projects span pharmacy inventory systems, tax filing platforms, and college portals — each one taught me something the next one relied on.
+
 - Currently sharpening my skills in **system design** and **AWS Cloud**
 - Comfortable jumping between Java and JavaScript depending on what the project needs
 - I care about writing code that's readable by the next person, not just runnable by the machine
@@ -73,9 +76,7 @@ What makes this one interesting: I originally built the backend in Node/Express,
 ### 💊 Pharmacy Portal — Inventory Management Dashboard
 > React 18 · Javascript · Styled Components · SpringBoot · JWT · RestAPIs
 
-A real-time pharmacy inventory dashboard. Tracks stock levels across medicines, flags low-stock and out-of-stock items, and shows live stats on daily sales and activity. Built with TypeScript throughout and a Firebase backend for live sync.
-
-Mobile-responsive from the ground up. Clean, healthcare-grade UI that doesn't get in the way.
+A real-time pharmacy inventory dashboard. Tracks stock levels across medicines, flags low-stock and out-of-stock items, and shows live stats on daily sales and activity. Mobile-responsive from the ground up. Clean, healthcare-grade UI that doesn't get in the way.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush19jain/pharmacy)
 
@@ -108,11 +109,7 @@ Completed JPMorgan Chase's Advanced Software Engineering virtual program. Worked
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush19jain&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
+
 ---
 
-<div align="center">
-
-*Open to internships, collaborations, and interesting problems.*
-**Let's build something worth looking at.**
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
